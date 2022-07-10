@@ -5,17 +5,12 @@
 <img src="https://github.com/Amogus10/hannah/blob/main/Picsart_22-07-08_19-00-09-520.png?raw=true" alt="animated" width="540" height="280" />
 
 </p>
-
 <p align="center">
-
     Memosa Bot is a automated whatsapp bot created by Memosa Team. Script is by Xneon<a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Also Thank you Black Amda ♥️
-
 </p>
 
 <p align="center">
-
 <a href="https://youtu.be/Memeathalofficial"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-
 </p>
 
 # Setup For Deployment 👇
