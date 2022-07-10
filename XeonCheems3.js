@@ -1,4 +1,4 @@
-Version 1 mchan
+//Version 1 mchan Podda podda danne nadda//
 
 process.on('uncaughtException', console.error) //Error log
 require("./config")
