@@ -113,9 +113,6 @@ let bad = JSON.parse(fs.readFileSync('./src/toxic/bad.json'));
  let _limit = JSON.parse(fs.readFileSync('./storage/user/limit.json'));
  let _buruan = JSON.parse(fs.readFileSync('./storage/user/bounty.json'));
  let _darahOrg = JSON.parse(fs.readFileSync('./storage/user/blood.json'))
- let cmd = ["les1","les2","les3","les4","les5","les6","les7","les8","les9","les10","les11","les12","les13","les14","les15","les16","les17","les19","les20","les18","hanavid","hard1","hard2","hard3","hard4","hard5","hard6","hard7","hard8","hard9","hard10","hard11","hard12","hard13"];
-  
-
 //read database using mongodb and lowdb by xeon
 global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
 global.db = new Low(
